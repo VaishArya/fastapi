@@ -1,4 +1,4 @@
 Hey this repository is for learning. 
-sup yash, learning fastapi.
+let's do a project for demo purpose.
 
 making new branch.
