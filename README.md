@@ -1,1 +1,2 @@
-Hey this repo is for learning fastapi. 
+Hey this repository is for learning. 
+sup yash, learning fastapi.
